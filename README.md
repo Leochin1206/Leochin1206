@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleo_1206/?hl=en)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-albergoni-viana-55b81929a/)
 
-![image](https://github.com/user-attachments/assets/6fbe1c80-49bc-4c0e-92a1-5db4d10cde51)
+![](https://github-readme-stats.vercel.app/api?username=Leochin1206&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 
 ### Tecnologias que trabalho: 
