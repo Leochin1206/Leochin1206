@@ -1,11 +1,12 @@
-### Olá, eu sou o Leonardo
+<h1>🐉 Leonardo Viana</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lleo_1206/?hl=en)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-albergoni-viana-55b81929a/)
 
+<h2>👋 Hello!</h2>
 
-### Tecnologias que trabalho: 
+I am a technology enthusiast passionate about software development and innovation. With technical training and hands-on experience in various technologies, I excel in creating efficient solutions, collaborating in dynamic environments, and adapting to new challenges. I am always eager to expand my knowledge and stay updated with industry trends. Beyond development, I have a strong interest in software architecture and best programming practices.
 
+<h2>💻 Familiar Technologies: </h2> 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -20,3 +21,8 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
+
+<h2>📊 Stats:</h2>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Leochin1206&card_width=400&card_height=210&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Leochin1206&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
