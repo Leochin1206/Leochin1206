@@ -22,7 +22,7 @@ I am a technology enthusiast passionate about software development and innovatio
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
+<h2>📊 Stats:</h2>
 <div align="center">
-  <h2>📊 Stats:</h2>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Leochin1206&card_width=400&card_height=210&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
