@@ -25,4 +25,4 @@ I am a technology enthusiast passionate about software development and innovatio
 <h2>📊 Stats:</h2>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Leochin1206&card_width=400&card_height=210&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Leochin1206&card_width=370&card_height=210&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
